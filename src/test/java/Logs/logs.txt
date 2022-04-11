@@ -1,0 +1,264 @@
+2022-04-09 22:56:42 INFO  Santander_Step_Definitions:16 - It is went to https://www.santanderbank.com/
+2022-04-09 22:56:42 INFO  Santander_Step_Definitions:24 - Page Title is true
+2022-04-09 23:06:09 INFO  Santander_Step_Definitions:16 - It has gone to https://www.santanderbank.com/
+2022-04-09 23:06:12 INFO  Santander_Step_Definitions:25 - Page Title is true
+2022-04-09 23:11:07 INFO  Santander_Step_Definitions:16 - It has gone to https://www.santanderbank.com/
+2022-04-09 23:11:08 INFO  Santander_Step_Definitions:25 - Page Title is true
+2022-04-09 23:15:30 INFO  Santander_Step_Definitions:16 - It has gone to https://www.santanderbank.com/
+2022-04-09 23:15:30 INFO  Santander_Step_Definitions:25 - Page Title is true
+2022-04-10 15:57:05 INFO  Santander_Step_Definitions:20 - It has gone to https://www.santanderbank.com/
+2022-04-10 15:57:05 INFO  Santander_Step_Definitions:29 - Page Title is true
+2022-04-10 15:57:09 INFO  Santander_Step_Definitions:35 - Banking tab is clicked
+2022-04-10 15:57:20 INFO  Santander_Step_Definitions:40 - Santander Select Checking tab is clicked
+2022-04-10 15:57:20 INFO  Santander_Step_Definitions:60 - It has gone to bootom of the page
+2022-04-10 15:59:34 INFO  Santander_Step_Definitions:20 - It has gone to https://www.santanderbank.com/
+2022-04-10 15:59:34 INFO  Santander_Step_Definitions:29 - Page Title is true
+2022-04-10 15:59:36 INFO  Santander_Step_Definitions:35 - Banking tab is clicked
+2022-04-10 15:59:44 INFO  Santander_Step_Definitions:40 - Santander Select Checking tab is clicked
+2022-04-10 15:59:44 INFO  Santander_Step_Definitions:60 - It has gone to bootom of the page
+2022-04-10 16:01:26 INFO  Santander_Step_Definitions:20 - It has gone to https://www.santanderbank.com/
+2022-04-10 16:01:26 INFO  Santander_Step_Definitions:29 - Page Title is true
+2022-04-10 16:01:26 INFO  Santander_Step_Definitions:35 - Banking tab is clicked
+2022-04-10 16:01:36 INFO  Santander_Step_Definitions:40 - Santander Select Checking tab is clicked
+2022-04-10 16:01:36 INFO  Santander_Step_Definitions:60 - It has gone to bootom of the page
+2022-04-10 16:21:54 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 16:21:54 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 16:21:54 INFO  Santander_Step_Definitions:36 - Banking tab is clicked
+2022-04-10 16:22:03 INFO  Santander_Step_Definitions:41 - Santander Select Checking tab is clicked
+2022-04-10 16:22:03 INFO  Santander_Step_Definitions:62 - It has gone to bootom of the page
+2022-04-10 22:14:32 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:14:33 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:14:55 INFO  Santander_Step_Definitions:47 - About Us is clicked
+2022-04-10 22:14:55 INFO  Santander_Step_Definitions:95 - It went to the bottom of the page.
+2022-04-10 22:15:00 INFO  Santander_Step_Definitions:53 - Account Setup is clicked
+2022-04-10 22:19:49 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:19:49 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:19:55 INFO  Santander_Step_Definitions:47 - About Us is clicked
+2022-04-10 22:19:55 INFO  Santander_Step_Definitions:95 - It went to the bottom of the page.
+2022-04-10 22:20:00 INFO  Santander_Step_Definitions:53 - Account Setup is clicked
+2022-04-10 22:22:20 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:22:20 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:22:25 INFO  Santander_Step_Definitions:47 - About Us is clicked
+2022-04-10 22:22:25 INFO  Santander_Step_Definitions:95 - It went to the bottom of the page.
+2022-04-10 22:22:29 INFO  Santander_Step_Definitions:53 - Account Setup is clicked
+2022-04-10 22:27:10 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:27:10 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:27:15 INFO  Santander_Step_Definitions:47 - About Us is clicked
+2022-04-10 22:27:15 INFO  Santander_Step_Definitions:95 - It went to the bottom of the page.
+2022-04-10 22:27:19 INFO  Santander_Step_Definitions:53 - Account Setup is clicked
+2022-04-10 22:27:24 INFO  Santander_Step_Definitions:58 - Santander Private Client is clicked
+2022-04-10 22:27:24 INFO  Santander_Step_Definitions:95 - It went to the bottom of the page.
+2022-04-10 22:27:25 INFO  Santander_Step_Definitions:106 - Bug Report-2 is verified. Meaningless Sentences Displayed on the Page
+2022-04-10 22:42:23 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:42:23 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:42:28 INFO  Santander_Step_Definitions:84 - Small Business is clicked
+2022-04-10 22:42:31 INFO  Santander_Step_Definitions:90 - Santander Safety Net is clicked
+2022-04-10 22:42:31 INFO  Santander_Step_Definitions:97 - It has gone to Overdraft fee details
+2022-04-10 22:44:03 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:44:03 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:44:07 INFO  Santander_Step_Definitions:84 - Small Business is clicked
+2022-04-10 22:44:12 INFO  Santander_Step_Definitions:90 - Santander Safety Net is clicked
+2022-04-10 22:44:12 INFO  Santander_Step_Definitions:97 - It has gone to Overdraft fee details
+2022-04-10 22:45:17 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:45:17 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:45:23 INFO  Santander_Step_Definitions:84 - Small Business is clicked
+2022-04-10 22:45:27 INFO  Santander_Step_Definitions:90 - Santander Safety Net is clicked
+2022-04-10 22:45:27 INFO  Santander_Step_Definitions:97 - It has gone to Overdraft fee details
+2022-04-10 22:57:39 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 22:57:39 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 22:57:39 INFO  Santander_Step_Definitions:36 - Banking tab is clicked
+2022-04-10 22:57:53 INFO  Santander_Step_Definitions:41 - Santander Select Checking tab is clicked
+2022-04-10 22:57:53 INFO  Santander_Step_Definitions:70 - It has gone to bottom of the page
+2022-04-10 22:57:55 INFO  Santander_Step_Definitions:77 - Bug Report-1 is verified. Unreadable Symbols Displayed on the Page
+2022-04-10 23:00:58 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 23:00:58 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 23:00:58 INFO  Santander_Step_Definitions:36 - Banking tab is clicked
+2022-04-10 23:01:09 INFO  Santander_Step_Definitions:41 - Santander Select Checking tab is clicked
+2022-04-10 23:01:09 INFO  Santander_Step_Definitions:70 - It has gone to bottom of the page
+2022-04-10 23:01:12 INFO  Santander_Step_Definitions:77 - Bug Report-1 is verified. Unreadable Symbols Displayed on the Page
+2022-04-10 23:05:33 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 23:05:33 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 23:05:41 INFO  Santander_Step_Definitions:47 - About Us is clicked
+2022-04-10 23:05:41 INFO  Santander_Step_Definitions:106 - It went to the bottom of the page.
+2022-04-10 23:05:46 INFO  Santander_Step_Definitions:53 - Account Setup is clicked
+2022-04-10 23:05:55 INFO  Santander_Step_Definitions:60 - Santander Private Client is clicked
+2022-04-10 23:05:55 INFO  Santander_Step_Definitions:106 - It went to the bottom of the page.
+2022-04-10 23:06:00 INFO  Santander_Step_Definitions:117 - Bug Report-2 is verified. Meaningless Sentences Displayed on the Page
+2022-04-10 23:10:07 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 23:10:07 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 23:10:08 INFO  Santander_Step_Definitions:36 - Banking tab is clicked
+2022-04-10 23:10:19 INFO  Santander_Step_Definitions:41 - Santander Select Checking tab is clicked
+2022-04-10 23:10:19 INFO  Santander_Step_Definitions:70 - It has gone to bottom of the page
+2022-04-10 23:10:21 INFO  Santander_Step_Definitions:77 - Bug Report-1 is verified. Unreadable Symbols Displayed on the Page
+2022-04-10 23:11:57 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-10 23:11:57 INFO  Santander_Step_Definitions:30 - Page Title is true
+2022-04-10 23:12:04 INFO  Santander_Step_Definitions:84 - Small Business is clicked
+2022-04-10 23:12:09 INFO  Santander_Step_Definitions:90 - Santander Safety Net is clicked
+2022-04-10 23:12:09 INFO  Santander_Step_Definitions:97 - It has gone to Overdraft fee details
+2022-04-10 23:12:09 INFO  Santander_Step_Definitions:99 - Bug Report-3 is verified. Invisible images Displayed on the Page
+2022-04-11 00:13:56 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:14:02 INFO  Santander_Step_Definitions:84 - Small Business is clicked
+2022-04-11 00:14:10 INFO  Santander_Step_Definitions:21 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:14:14 INFO  Santander_Step_Definitions:84 - Small Business is clicked
+2022-04-11 00:27:43 INFO  Santander_Step_Definitions:22 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:27:49 INFO  Santander_Step_Definitions:85 - Small Business is clicked
+2022-04-11 00:28:03 INFO  Santander_Step_Definitions:22 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:28:07 INFO  Santander_Step_Definitions:85 - Small Business is clicked
+2022-04-11 00:30:07 INFO  Santander_Step_Definitions:22 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:30:12 INFO  Santander_Step_Definitions:85 - Small Business is clicked
+2022-04-11 00:30:18 INFO  Santander_Step_Definitions:22 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:52:33 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:52:38 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 00:53:00 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:53:04 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 00:55:12 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:55:19 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 00:55:37 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:57:26 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:57:32 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 00:57:54 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 00:57:59 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:07:14 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:07:23 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:07:23 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:07:25 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:07:29 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:07:32 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:07:36 INFO  Santander_Step_Definitions:170 - John name is added and the other box were filled
+2022-04-11 01:07:36 INFO  Santander_Step_Definitions:175 -  Franchise were selected
+2022-04-11 01:07:36 INFO  Santander_Step_Definitions:179 - Submit Button was clicked
+2022-04-11 01:07:41 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:07:46 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:07:46 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:07:47 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:07:49 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:07:53 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:07:55 INFO  Santander_Step_Definitions:170 - Charlie name is added and the other box were filled
+2022-04-11 01:07:56 INFO  Santander_Step_Definitions:175 -  Franchise were selected
+2022-04-11 01:07:56 INFO  Santander_Step_Definitions:179 - Submit Button was clicked
+2022-04-11 01:12:41 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:12:51 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:12:51 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:12:51 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:12:57 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:13:01 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:13:04 INFO  Santander_Step_Definitions:173 - John name is added and the other box were filled
+2022-04-11 01:13:04 INFO  Santander_Step_Definitions:178 -  Franchise were selected
+2022-04-11 01:13:05 INFO  Santander_Step_Definitions:182 - Submit Button was clicked
+2022-04-11 01:13:11 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:13:16 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:13:16 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:13:18 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:13:21 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:13:24 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:13:27 INFO  Santander_Step_Definitions:173 - Charlie name is added and the other box were filled
+2022-04-11 01:13:27 INFO  Santander_Step_Definitions:178 -  Franchise were selected
+2022-04-11 01:13:28 INFO  Santander_Step_Definitions:182 - Submit Button was clicked
+2022-04-11 01:15:40 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:15:47 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:15:47 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:15:49 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:16:00 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:16:04 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:16:10 INFO  Santander_Step_Definitions:173 - John name is added and the other box were filled
+2022-04-11 01:16:10 INFO  Santander_Step_Definitions:178 -  Franchise were selected
+2022-04-11 01:16:10 INFO  Santander_Step_Definitions:182 - Submit Button was clicked
+2022-04-11 01:16:17 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:16:22 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:16:24 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:16:24 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:16:27 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:16:30 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:16:33 INFO  Santander_Step_Definitions:173 - Charlie name is added and the other box were filled
+2022-04-11 01:16:33 INFO  Santander_Step_Definitions:178 -  Franchise were selected
+2022-04-11 01:16:33 INFO  Santander_Step_Definitions:182 - Submit Button was clicked
+2022-04-11 01:19:03 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:19:08 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:19:09 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:19:09 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:19:15 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:19:18 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:19:22 INFO  Santander_Step_Definitions:173 - John name is added and the other box were filled
+2022-04-11 01:19:22 INFO  Santander_Step_Definitions:178 -  Franchise were selected
+2022-04-11 01:19:22 INFO  Santander_Step_Definitions:182 - Submit Button was clicked
+2022-04-11 01:19:28 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:19:32 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:19:32 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:19:33 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:19:36 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:19:41 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:19:44 INFO  Santander_Step_Definitions:173 - Charlie name is added and the other box were filled
+2022-04-11 01:19:44 INFO  Santander_Step_Definitions:178 -  Franchise were selected
+2022-04-11 01:19:44 INFO  Santander_Step_Definitions:182 - Submit Button was clicked
+2022-04-11 01:25:38 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:25:48 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:25:48 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:25:49 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:25:52 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:25:56 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:26:00 INFO  Santander_Step_Definitions:172 - John name is added and the other box were filled
+2022-04-11 01:26:00 INFO  Santander_Step_Definitions:177 -  Franchise were selected
+2022-04-11 01:26:01 INFO  Santander_Step_Definitions:181 - Submit Button was clicked
+2022-04-11 01:26:06 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:26:10 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:26:10 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:26:11 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:26:14 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:26:17 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:26:20 INFO  Santander_Step_Definitions:172 - Charlie name is added and the other box were filled
+2022-04-11 01:26:20 INFO  Santander_Step_Definitions:177 -  Franchise were selected
+2022-04-11 01:26:20 INFO  Santander_Step_Definitions:181 - Submit Button was clicked
+2022-04-11 01:29:18 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:29:23 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:29:25 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:29:25 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:29:28 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:29:33 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:29:35 INFO  Santander_Step_Definitions:172 - John name is added and the other box were filled
+2022-04-11 01:29:36 INFO  Santander_Step_Definitions:177 -  Franchise were selected
+2022-04-11 01:29:36 INFO  Santander_Step_Definitions:181 - Submit Button was clicked
+2022-04-11 01:29:41 INFO  Santander_Step_Definitions:185 - Thank you for your interest in Small Business products and services from Santander! text is seen.
+2022-04-11 01:29:46 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 01:29:50 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 01:29:50 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 01:29:51 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 01:29:54 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 01:29:56 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 01:29:58 INFO  Santander_Step_Definitions:172 - Charlie name is added and the other box were filled
+2022-04-11 01:29:58 INFO  Santander_Step_Definitions:177 -  Franchise were selected
+2022-04-11 01:29:59 INFO  Santander_Step_Definitions:181 - Submit Button was clicked
+2022-04-11 01:30:04 INFO  Santander_Step_Definitions:185 - Thank you for your interest in Small Business products and services from Santander! text is seen.
+2022-04-11 10:12:03 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 10:12:03 INFO  Santander_Step_Definitions:34 - Page Title is true
+2022-04-11 10:12:05 INFO  Santander_Step_Definitions:40 - Banking tab is clicked
+2022-04-11 10:12:13 INFO  Santander_Step_Definitions:45 - Santander Select Checking tab is clicked
+2022-04-11 10:12:13 INFO  Santander_Step_Definitions:74 - It has gone to bottom of the page
+2022-04-11 10:12:17 INFO  Santander_Step_Definitions:81 - Bug Report-1 is verified. Unreadable Symbols Displayed on the Page
+2022-04-11 10:14:05 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 10:14:05 INFO  Santander_Step_Definitions:34 - Page Title is true
+2022-04-11 10:14:16 INFO  Santander_Step_Definitions:51 - About Us is clicked
+2022-04-11 10:14:16 INFO  Santander_Step_Definitions:110 - It went to the bottom of the page.
+2022-04-11 10:14:22 INFO  Santander_Step_Definitions:57 - Account Setup is clicked
+2022-04-11 10:14:27 INFO  Santander_Step_Definitions:64 - Santander Private Client is clicked
+2022-04-11 10:14:27 INFO  Santander_Step_Definitions:110 - It went to the bottom of the page.
+2022-04-11 10:14:30 INFO  Santander_Step_Definitions:121 - Bug Report-2 is verified. Meaningless Sentences Displayed on the Page
+2022-04-11 10:17:22 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 10:17:32 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 10:17:34 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 10:17:34 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 10:17:39 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 10:17:47 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 10:17:53 INFO  Santander_Step_Definitions:172 - John name is added and the other box were filled
+2022-04-11 10:17:53 INFO  Santander_Step_Definitions:177 -  Franchise were selected
+2022-04-11 10:17:54 INFO  Santander_Step_Definitions:181 - Submit Button was clicked
+2022-04-11 10:17:59 INFO  Santander_Step_Definitions:185 - Thank you for your interest in Small Business products and services from Santander! text is seen.
+2022-04-11 10:18:04 INFO  Santander_Step_Definitions:25 - It has gone to https://www.santanderbank.com/
+2022-04-11 10:18:09 INFO  Santander_Step_Definitions:88 - Small Business is clicked
+2022-04-11 10:18:10 INFO  Santander_Step_Definitions:132 - It has gone to Borrowing Tap
+2022-04-11 10:18:10 INFO  Santander_Step_Definitions:139 - It has gone to Borrowing Option
+2022-04-11 10:18:14 INFO  Santander_Step_Definitions:146 - Business Term Loan was clicked
+2022-04-11 10:18:16 INFO  Santander_Step_Definitions:155 - Get in Touch was clicked
+2022-04-11 10:18:20 INFO  Santander_Step_Definitions:172 - Charlie name is added and the other box were filled
+2022-04-11 10:18:20 INFO  Santander_Step_Definitions:177 -  Franchise were selected
+2022-04-11 10:18:20 INFO  Santander_Step_Definitions:181 - Submit Button was clicked
+2022-04-11 10:18:25 INFO  Santander_Step_Definitions:185 - Thank you for your interest in Small Business products and services from Santander! text is seen.

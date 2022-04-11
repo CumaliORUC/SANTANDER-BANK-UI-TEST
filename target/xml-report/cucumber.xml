@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="59.33">
+    <testcase classname="Santander" name="Bug Report 2" time="58.341">
+        <system-out><![CDATA[Given Go to the "Santander_URL".............................................passed
+Then Verify true page.......................................................passed
+When Click to About Us......................................................passed
+Then Go to bottom of the page...............................................passed
+And Click to Account set-up.................................................passed
+Given Click to Santander Private Client.....................................passed
+Then Go to bottom of the page...............................................passed
+And Verify Meaningless Sentences............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
